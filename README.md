@@ -57,7 +57,7 @@ A custom high-performance FPGA board based on the **Xilinx Zynq UltraScale+ MPSo
 ## 📂 Documentation
 The complete schematic and PCB layout are included in the `docs` folder as a PDF file.  
 For detailed circuit diagrams and board design information, please refer to **`AXU9EG_Board_Documentation.pdf`**.
-
+This repository contains PDF versions of the schematic and PCB for reference. Original design files are not publicly shared to protect intellectual property.
 
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
