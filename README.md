@@ -51,6 +51,9 @@ A custom high-performance FPGA board based on the **Xilinx Zynq UltraScale+ MPSo
 | Top View | Bottom View |
 |----------|-------------|
 | ![](images/board_top.jpg) | ![](images/board_bottom.jpg) |
+| Top Layer View | Bottom Layer View |
+|----------|-------------|
+| ![](images/board_layer_top.jpg) | ![](images/board_layer_bottom.jpg) |
 
 ---
 
