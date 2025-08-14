@@ -1,7 +1,7 @@
 # AXU9EG FPGA Development Board
 
 ![Board Photo](images/board_top.png)
-(images/board.jpg)
+![Board Photo2](images/board.jpg)
 A custom high-performance FPGA board based on the **Xilinx Zynq UltraScale+ MPSoC XCZU9EG**, designed for high-speed data processing, precision analog interfacing, and advanced embedded applications.
 
 ---
